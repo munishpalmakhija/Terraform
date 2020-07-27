@@ -14,10 +14,10 @@ Following are the pre-requisities
 
 Execute following commands
 
-terraform init
-terraform plan
-terraform apply -auto-approve
+- terraform init
+- terraform plan
+- terraform apply -auto-approve
 
 # Contact
 
-You can reach out to me via Slack (@Munish) if you need further details
+You can reach out to me via Twitter (@munishpal_singh) if you need further details
