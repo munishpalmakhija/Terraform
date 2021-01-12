@@ -1,0 +1,6 @@
+aws_access_key = "AWSAccessKey"
+aws_secret_key = "AWSSecretKey"
+aws_region = "us-west-2"
+aws_cloudwatch_log_group = "AWS_CloudWatch_Log_Group"
+aws_iam_lambda_role = "AWS_IAM_Lambda_Role"
+vrlicloud_apikey = "APIKey_vRLICloud"
